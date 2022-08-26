@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T16:56:36.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="f9Q_dP07YutI7eJc_0t1" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-26T17:08:02.338Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="KkdEdFiZFMyXz8d4WYyz" version="20.2.7" type="github" pages="11">
   <diagram id="kHyH_IQSusyQK1LdKbyf" name="LMS">
     <mxGraphModel dx="946" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -677,7 +677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SJiAtCbcuokTlpyHAe2Z" name="Librarian-menu">
-    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -786,7 +786,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4uadtOV2BKmfrg6nJ1Oq" name="Librarian-1">
-    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -859,7 +859,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_5CN3A5LbGRsPgRiCzMV" name="librarian-2">
-    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -934,7 +934,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="epz72H9C1XVK9UhG9MIt" name="librarian-3">
-    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1081,13 +1081,46 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qSHZiUJCLhsZlQ00Hsol" name="Page-13">
-    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="qSHZiUJCLhsZlQ00Hsol" name="Librarian-2.4">
+    <mxGraphModel dx="946" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-7prhxfubufHFk3tzq9_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KR-QyGTmWL4IIFl47kq_-1" target="-7prhxfubufHFk3tzq9_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KR-QyGTmWL4IIFl47kq_-1" value="2.4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-7prhxfubufHFk3tzq9_-1" target="-7prhxfubufHFk3tzq9_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-1" value="1.Issue Book" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="130" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-7prhxfubufHFk3tzq9_-3" target="-7prhxfubufHFk3tzq9_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-3" value="2.View Issued Book" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-7prhxfubufHFk3tzq9_-5" target="-7prhxfubufHFk3tzq9_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-5" value="3.Reissue Book" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-7prhxfubufHFk3tzq9_-7" target="-7prhxfubufHFk3tzq9_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-7" value="4.Return Book" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-9" value="5.Go back to Menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-7prhxfubufHFk3tzq9_-11" value="2.View Issued Book" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
