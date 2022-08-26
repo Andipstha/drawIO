@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T16:52:26.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="K5zv6vjijvqTMWKUvGzZ" version="20.2.7" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-08-26T16:56:36.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="f9Q_dP07YutI7eJc_0t1" version="20.2.7" type="github" pages="11">
   <diagram id="kHyH_IQSusyQK1LdKbyf" name="LMS">
     <mxGraphModel dx="946" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -297,7 +297,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YovE5NxRW5Qy2nEPTWzJ" name="Choice 1">
-    <mxGraphModel dx="946" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -501,8 +501,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qAN8Wk16d1_TYW7PdcIX" name="Page-6">
-    <mxGraphModel dx="1113" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="qAN8Wk16d1_TYW7PdcIX" name="Main-Menu">
+    <mxGraphModel dx="989" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -579,8 +579,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="LQAZIxzDDJMuBFM_6hdW" name="Page-7">
-    <mxGraphModel dx="1183" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="LQAZIxzDDJMuBFM_6hdW" name="Student-menu">
+    <mxGraphModel dx="1051" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -676,8 +676,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="SJiAtCbcuokTlpyHAe2Z" name="Page-9">
-    <mxGraphModel dx="946" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="SJiAtCbcuokTlpyHAe2Z" name="Librarian-menu">
+    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -785,8 +785,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4uadtOV2BKmfrg6nJ1Oq" name="Page-10">
-    <mxGraphModel dx="946" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="4uadtOV2BKmfrg6nJ1Oq" name="Librarian-1">
+    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -858,8 +858,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="_5CN3A5LbGRsPgRiCzMV" name="Page-11">
-    <mxGraphModel dx="946" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="_5CN3A5LbGRsPgRiCzMV" name="librarian-2">
+    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -933,8 +933,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="epz72H9C1XVK9UhG9MIt" name="Page-12">
-    <mxGraphModel dx="946" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="epz72H9C1XVK9UhG9MIt" name="librarian-3">
+    <mxGraphModel dx="841" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
